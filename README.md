@@ -5,7 +5,7 @@ Greeze
 
 [Chrome Plugin Picture One](http://zlwaterfield.com/projects/greeze/img/greeze1.jpg)
 
-[Chrome Plugin Picture Two](http://zlwaterfield.com/projects/greeze/img/greeze2.jpg)
+[Chrome Plugin Picture Two](http://zlwaterfield.com/projects/greeze/img/greeze2.png)
 
 [Developer Version of the Myo](http://zlwaterfield.com/projects/greeze/img/nest.jpg)
 
