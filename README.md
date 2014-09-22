@@ -35,3 +35,5 @@ Google Plus
 #Dependancies (Chrome Extensions)
 - Reddit Enhancement Suite
 - Hacker News Enhancement Suite
+
+[Demo Video](http://vimeo.com/106725278)
