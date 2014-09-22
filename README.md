@@ -46,3 +46,13 @@ Google Plus
 - Reddit Enhancement Suite
 - Hacker News Enhancement Suite
 
+
+Team:
+
+Jackson Prange
+
+Zach Waterfield
+
+Jack Forbes
+
+Evgeny Gorchakov
